@@ -1,6 +1,7 @@
 /* The code below centers the text of all h1's on the page. */
 h1 {
     text-align:center;
+    color: #099032;
 }
 
 /* The code below centers all images on the page and gives them a width of 400px. */
@@ -14,6 +15,7 @@ img {
 /* The code below centers the text of all h2's on the page. */
 h2 {
     text-align:center;
+    color: #099032;
 }
 
 /* The code below aligns all the sections horizontally on the bottom. */
@@ -24,6 +26,19 @@ h2 {
 
 /* The code below a solid black border to section and puts space between them (the margin). */
 .section {
-    border: 5px black solid;
+    border-color: #1F77D6;
     margin:5px;
+    color: #099032;
 }
+
+/* this code changes the bodys aspects such as color*/
+body {
+background-color: #01180C;
+color: #099032;
+text-align: center;
+}
+
+.game-chart {
+    width: 350px;
+}
+/* changes the border of the sections aspects*/
